@@ -26,4 +26,4 @@ Some anonymous data is stored securely using third-party services (such as Fireb
 
 ## Contact
 If you have questions about this Privacy Policy, please contact:
-Email: your_email@example.com
+Email: memori.app.tester@gmail.com
